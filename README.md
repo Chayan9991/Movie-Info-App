@@ -3,7 +3,7 @@
 My React Movie Search App is a web application that allows users to search for movies using the OMDB API and view detailed information about each movie. This application is built using React, Tailwind CSS, and the OMDB API.
 
 ![Demo Screenshot](./src/images/Image1.png)
-![Demo Screenshot](./src/images/Image2.png)
+![Demo Screenshot2](./src/images/Image2.png)
 
 ## Features
 
